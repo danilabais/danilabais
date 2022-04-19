@@ -28,20 +28,21 @@ I love to write code &#129321;
 
 
 ## My resume: 
-[Click me](https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view){:target="_blank"}
+[Click me](https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view){:target="_blank" rel="noopener"}
 
 ## My best projects
-[Shorthand Page](https://shorthand-d381a.web.app/){:target="_blank"}  
-[Shorthand GitHub](https://github.com/danilabais/shorthand-vue){:target="_blank"}  
-Technology stack: vue-cli, firebase, html, css, vue-router, vuex, bootstrap, axios
+[Shorthand Page](https://shorthand-d381a.web.app/){:target="_blank" rel="noopener"}  
+[Shorthand GitHub](https://github.com/danilabais/shorthand-vue){:target="_blank" rel="noopener"}  
+Technology stack: vue-cli, firebase, css, vue-router, vuex, bootstrap, axios
 Additional: sign in + sign out, test account: test@test.ru, password: 12341234
 <br>
-[Wheater-vue Page](https://wheater-vue.web.app/){:target="_blank"}  
-[Wheater-vue GitHub](https://github.com/danilabais/wheater-vue){:target="_blank"} 
-Technology stack: vue-cli,  html, scss, vue-router, vuex
+[Wheater-vue Page](https://wheater-vue.web.app/){:target="_blank" rel="noopener"}  
+[Wheater-vue GitHub](https://github.com/danilabais/wheater-vue){:target="_blank" rel="noopener"} 
+Technology stack:<br> vue-cli,  scss, vue-router, vuex<br>
 Additional: mobile friendly, my styles of scss, axios
 <br>
-[Wheater-vue Page](https://test-881d9.web.app/){:target="_blank"}  
-[Wheater-vue GitHub](https://github.com/danilabais/test-task){:target="_blank"} 
-Technology stack: vue-cli,  html, scss, vue-router, vuex
+<br>
+[Wheater-vue Page](https://test-881d9.web.app/){:target="_blank" rel="noopener"}  
+[Wheater-vue GitHub](https://github.com/danilabais/test-task){:target="_blank" rel="noopener"} 
+Technology stack:<br> vue-cli, vue-router, vuex, vuetify<br>
 Additional: mobile friendly, base64
