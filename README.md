@@ -3,5 +3,10 @@
 <h3 align="center">Vue Frontend Developer from Russia</h3>
 
 ## About me
-I am constantly learning new things &#128521;
+I am constantly learning new things &#128521;  
 I love to write code &#129321;
+
+
+## Languages and Tools:
+
+<img align="left" alt="vue" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
