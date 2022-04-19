@@ -28,7 +28,7 @@ I love to write code &#129321;
 
 
 ## My resume: 
-[Click me](https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view target="_blank")
+<a href="https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view" target="_blank" target="_blank">Click me</a>
 
 ## My best projects
 <a href="https://shorthand-d381a.web.app/" target="_blank">Shorthand Page</a><br>
@@ -36,10 +36,10 @@ I love to write code &#129321;
 Technology stack:<br> vue-cli, firebase, css, vue-router, vuex, bootstrap, axios<br>
 Additional: sign in + sign out, test account: test@test.ru, password: 12341234<br><br>
 <a href="https://wheater-vue.web.app/" target="_blank">Wheater-vue Page</a>
-<a href="https://github.com/danilabais/wheater-vue" target="_blank">Wheater-vue GitHub</a>
+<a href="https://github.com/danilabais/wheater-vue" target="_blank">Wheater-vue GitHub</a><br>
 Technology stack:<br> vue-cli,  scss, vue-router, vuex<br>
 Additional: mobile friendly, my styles of scss, axios<br><br>
 <a href="https://test-881d9.web.app/" target="_blank">Wheater-vue Page</a><br>
-<a href="https://github.com/danilabais/test-task" target="_blank">Wheater-vue GitHub</a>
+<a href="https://github.com/danilabais/test-task" target="_blank">Wheater-vue GitHub</a><br>
 Technology stack:<br> vue-cli, vue-router, vuex, vuetify<br>
 Additional: mobile friendly, base64
