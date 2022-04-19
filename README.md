@@ -5,8 +5,7 @@
 ## About me
 I am constantly learning new things &#128521;  
 I love to write code &#129321;
-
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/danilabais)   
+  
 
 ## Languages and Tools:
 
@@ -46,3 +45,6 @@ Additional: mobile friendly, my styles of scss, axios<br><br>
 <a href="https://github.com/danilabais/test-task" target="_blank">Wheater-vue GitHub</a><br>
 Technology stack:<br> vue-cli, vue-router, vuex, vuetify<br>
 Additional: mobile friendly, base64
+
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/danilabais) 
