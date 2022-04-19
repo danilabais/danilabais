@@ -31,8 +31,10 @@ I love to write code &#129321;
 [Click me](https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view target="_blank")
 
 ## My best projects
-[Shorthand Page](https://shorthand-d381a.web.app/ target="_blank")  
-[Shorthand GitHub](https://github.com/danilabais/shorthand-vue target="_blank")  
+<a href="https://shorthand-d381a.web.app/" target="_blank">Shorthand Page</a><br>
+<a href="https://github.com/danilabais/shorthand-vue" target="_blank">Shorthand GitHub</a><br>
+<a href="" target="_blank"></a>
+<a href="" target="_blank"></a>
 Technology stack: vue-cli, firebase, css, vue-router, vuex, bootstrap, axios
 Additional: sign in + sign out, test account: test@test.ru, password: 12341234
 <br>
