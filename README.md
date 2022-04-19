@@ -27,5 +27,5 @@ I love to write code &#129321;
 <br><br>
 
 
-### My resume: 
+## My resume: 
 [Click me](https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view)
