@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://danilabais.com/" target="_blank">Danila</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/danilabais" target="_blank">Danila</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Vue Frontend Developer from Russia</h3>
 
@@ -24,7 +24,7 @@ I love to write code &#129321;
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
 <img align="left" alt="jira" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg">
 <img align="left" alt="gulp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg">  
-<br><br>
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
 ## My resume: 
