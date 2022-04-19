@@ -47,4 +47,4 @@ Technology stack:<br> vue-cli, vue-router, vuex, vuetify<br>
 Additional: mobile friendly, base64
 
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/danilabais) 
+[![codewars](https://www.codewars.com/users/danilabais/badges/large)](https://www.codewars.com/users/danilabais) 
