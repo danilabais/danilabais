@@ -33,18 +33,13 @@ I love to write code &#129321;
 ## My best projects
 <a href="https://shorthand-d381a.web.app/" target="_blank">Shorthand Page</a><br>
 <a href="https://github.com/danilabais/shorthand-vue" target="_blank">Shorthand GitHub</a><br>
-<a href="" target="_blank"></a>
-<a href="" target="_blank"></a>
-Technology stack: vue-cli, firebase, css, vue-router, vuex, bootstrap, axios
-Additional: sign in + sign out, test account: test@test.ru, password: 12341234
-<br>
-[Wheater-vue Page](https://wheater-vue.web.app/ target="_blank")  
-[Wheater-vue GitHub](https://github.com/danilabais/wheater-vue target="_blank") 
+Technology stack:<br> vue-cli, firebase, css, vue-router, vuex, bootstrap, axios<br>
+Additional: sign in + sign out, test account: test@test.ru, password: 12341234<br><br>
+<a href="https://wheater-vue.web.app/" target="_blank">Wheater-vue Page</a>
+<a href="https://github.com/danilabais/wheater-vue" target="_blank">Wheater-vue GitHub</a>
 Technology stack:<br> vue-cli,  scss, vue-router, vuex<br>
-Additional: mobile friendly, my styles of scss, axios
-<br>
-<br>
-[Wheater-vue Page](https://test-881d9.web.app/ target="_blank")  
-[Wheater-vue GitHub](https://github.com/danilabais/test-task target="_blank") 
+Additional: mobile friendly, my styles of scss, axios<br><br>
+<a href="https://test-881d9.web.app/" target="_blank">Wheater-vue Page</a>
+<a href="Wheater-vue GitHub" target="_blank">https://github.com/danilabais/test-task</a>
 Technology stack:<br> vue-cli, vue-router, vuex, vuetify<br>
 Additional: mobile friendly, base64
