@@ -39,7 +39,7 @@ Additional: sign in + sign out, test account: test@test.ru, password: 12341234<b
 <a href="https://github.com/danilabais/wheater-vue" target="_blank">Wheater-vue GitHub</a>
 Technology stack:<br> vue-cli,  scss, vue-router, vuex<br>
 Additional: mobile friendly, my styles of scss, axios<br><br>
-<a href="https://test-881d9.web.app/" target="_blank">Wheater-vue Page</a>
-<a href="Wheater-vue GitHub" target="_blank">https://github.com/danilabais/test-task</a>
+<a href="https://test-881d9.web.app/" target="_blank">Wheater-vue Page</a><br>
+<a href="https://github.com/danilabais/test-task" target="_blank">Wheater-vue GitHub</a>
 Technology stack:<br> vue-cli, vue-router, vuex, vuetify<br>
 Additional: mobile friendly, base64
