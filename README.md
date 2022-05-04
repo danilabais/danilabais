@@ -26,7 +26,7 @@ I love to write code &#129321;
 <img align="left" alt="jira" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg">
 <img align="left" alt="gulp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg">
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-<img align="left" alt="ant design" width="26px" src="https://w7.pngwing.com/pngs/476/82/png-transparent-ant-design-language-react-user-interface-design-design-user-interface-design-text-rectangle.png">
+<img align="left" alt="ant design" width="26px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png">
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
 
 <br>
