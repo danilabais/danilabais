@@ -5,7 +5,7 @@
 ## About me
 I am constantly learning new things &#128521;  
 I love to write code &#129321;
-<br>
+<br><br>
 [![codewars](https://www.codewars.com/users/danilabais/badges/large)](https://www.codewars.com/users/danilabais)  
 
 ## Languages and Tools:
