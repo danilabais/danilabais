@@ -37,7 +37,7 @@ I love to write code &#129321;
 ## My resume: 
 <a href="https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view" target="_blank" target="_blank">Click me</a>
 
-## My best projects
+## My pet-projects
 <a href="https://danilabais.github.io/shorthand-vue/" target="_blank">Shorthand Page</a><br>
 <a href="https://github.com/danilabais/shorthand-vue" target="_blank">Shorthand GitHub</a><br>
 Technology stack:<br> vue-cli, firebase, css, vue-router, vuex, bootstrap, axios<br>
@@ -49,6 +49,10 @@ Additional: mobile friendly, my styles of scss, axios<br><br>
 <a href="https://danilabais.github.io/admin-interface/" target="_blank">admin-interface Page</a><br>
 <a href="https://github.com/danilabais/admin-interface" target="_blank">admin-interface GitHub</a><br>
 Technology stack:<br> vue-cli, vue-router, vuex, vuetify<br>
+Additional: mobile friendly, base64<br><br>
+<a href="https://danilabais.github.io/snake-game/dist/" target="_blank">snake-game Page</a><br>
+<a href="https://github.com/danilabais/snake-game" target="_blank">snake-game GitHub</a><br>
+Technology stack:<br> OOP, native JS, bootstrap, my styles of scss<br>
 Additional: mobile friendly, base64
 
 
