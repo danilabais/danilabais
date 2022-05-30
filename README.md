@@ -53,6 +53,6 @@ Additional: mobile friendly, base64<br><br>
 <a href="https://danilabais.github.io/snake-game/dist/" target="_blank">snake-game Page</a><br>
 <a href="https://github.com/danilabais/snake-game" target="_blank">snake-game GitHub</a><br>
 Technology stack:<br> OOP, native JS, bootstrap, my styles of scss<br>
-Additional: mobile friendly, base64
+
 
 
