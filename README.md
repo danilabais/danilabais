@@ -35,7 +35,7 @@ I love to write code &#129321;
 
 
 ## My resume: 
-<a href="https://drive.google.com/file/d/1xBbtbS1mvw6L2f_jiWO9I-gUs8GfV9sT/view" target="_blank" target="_blank">Click me</a>
+<a href="https://drive.google.com/file/d/1lvc9K_McBrccXhSAiGBkaNrkSrA3hUr8/view?usp=sharing" target="_blank">Click me</a>
 
 ## My pet-projects
 <a href="https://danilabais.github.io/shorthand-vue/" target="_blank">Shorthand Page</a><br>
