@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/danilabais" target="_blank">Danila</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center">Vue Frontend Developer from Saint-Petersburg</h3>
 
 ## About me
@@ -36,7 +36,7 @@ I love to write code &#129321;
 
 
 ## My resume: 
-<a href="https://drive.google.com/file/d/1lvc9K_McBrccXhSAiGBkaNrkSrA3hUr8/view?usp=sharing" target="_blank">Click me</a>
+<a href="https://drive.google.com/file/d/1lvc9K_McBrccXhSAiGBkaNrkSrA3hUr8/view?usp=sharing](https://zesty-avocado-6b7.notion.site/e44c3a03a8804fdda09733cc9f02013b" target="_blank">Click me</a>
 
 ## My pet-projects
 <a href="https://danilabais.github.io/shorthand-vue/" target="_blank">Shorthand Page</a><br>
