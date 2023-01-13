@@ -36,7 +36,7 @@ I love to write code &#129321;
 
 
 ## My resume: 
-<a href="https://zesty-avocado-6b7.notion.site/e44c3a03a8804fdda09733cc9f02013b" target="_blank">Click me</a>
+<a href="https://zesty-avocado-6b7.notion.site/e44c3a03a8804fdda09733cc9f02013b" target="_blank" >Click me</a>
 
 ## My pet-projects
 <a href="https://danilabais.github.io/shorthand-vue/" target="_blank">Shorthand Page</a><br>
